@@ -1,0 +1,13 @@
+
+.idea/
+.vscode/
+build/
+Debug/
+Release/
+cmake-build-*/
+.metadata/
+.settings/
+*.launch
+.DS_Store
+Thumbs.db
+
